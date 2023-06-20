@@ -1,0 +1,17 @@
+{
+  "name": "lodash-ts",
+  "version": "0.0.0",
+  "description": "TypeScript implementation of lodash library",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "lodash-ts",
+    "typescript",
+    "ts"
+  ],
+  "author": "Kirill Skliarov",
+  "license": "ISC"
+}

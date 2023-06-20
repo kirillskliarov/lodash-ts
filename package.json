@@ -4,7 +4,8 @@
   "description": "TypeScript implementation of lodash library",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ts-mocha",
+    "ts-mocha": "ts-mocha"
   },
   "keywords": [
     "lodash",
@@ -27,6 +28,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "mocha": "^10.2.0",
     "prettier": "2.8.8",
+    "ts-mocha": "^10.0.0",
     "typescript": "^5.1.3"
   }
 }

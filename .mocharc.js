@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-    spec: ['src/**/*.spec.ts'],
+  spec: ['src/**/*.spec.ts'],
 };
